@@ -1,4 +1,4 @@
-Sat Oct 24 00:24:50 UTC 2020
+Sat Oct 24 00:24:50 UTC  2020
 Filesystem                Size      Used Available Use% Mounted on
 /dev/root                 4.9G      1.6G      3.2G  33% /
    4 df -h / >> hw.txt
