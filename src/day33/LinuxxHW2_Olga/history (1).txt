@@ -1,0 +1,18 @@
+   0 cd /home
+   1 date >> hw.txt
+   2 cat hw.txt
+   3 df -h /
+   4 df -h / >> hw.txt
+   5 cat hw.txt
+   6 history
+   7 history | tail -n 5
+   8 history | tail -n 5 >> hw.txt
+   9 cat hw.txt
+  10 cat /proc/cpuinfo | grep vendor >> hw.txt
+  11 nano hw.txt
+  12 ps -ef
+  13 ps -ef | tail +2
+  14 ps -ef | tail +2 |wc -l
+  15 ps -ef | tail +2 |wc -l >> hw.txt
+  16 cat hw.txt 
+  17 history >> history.txt
